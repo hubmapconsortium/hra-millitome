@@ -50,34 +50,34 @@ Also included in each package is a .CSV file to record data about the sample blo
 
 #### Visual Human Female Left Pancreas (VH_F_Pancreas_L)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 #### Visual Human Female Right Pancreas (VH_F_Pancreas_R)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 #### Visual Human Male Left Pancreas (VH_M_Pancreas_L)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 #### Visual Human Male Right Pancreas (VH_M_Pancreas_R)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 ### Spleen
 
 #### Visual Human Female Left Spleen (VH_F_Spleen_L)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 #### Visual Human Female Right Spleen (VH_F_Spleen_R)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 #### Visual Human Male Left Spleen (VH_M_Spleen_L)
 
-*[Millitome Files]()
+* [Millitome Files]()
 
 #### Visual Human Male Right Spleen (VH_M_Spleen_R)
 
-*[Millitome Files]()
+* [Millitome Files]()
