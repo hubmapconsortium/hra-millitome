@@ -19,16 +19,16 @@ VH_F_Kidney_L_15_matrix.csv<br>
 
 ## Organ size variations
 
-<p>Each VH_F_Kidney_L millitome in this set comes in three size variations.</p>
+<p>Each VH_F_Kidney_L millitome in this set comes in three size variations:</p>
 
 <strong>medium (100%)</strong><br>
-X = 134mm<br>
-Y = 66mm<br>
+X = 66mm<br>
+Y = 134mm<br>
 
 <strong>large (115%)</strong><br>
-X = 154.1mm<br>
-Y = 75.9mm<br>
+X = 75.9mm<br>
+Y = 154.1mm<br>
 
 <strong>small (85%)</strong><br>
-X = 113.9mm<br>
-Y = 56.1mm<br>
+X = 56.1mm<br>
+Y = 113.9mm<br>
