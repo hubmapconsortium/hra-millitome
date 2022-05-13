@@ -13,70 +13,12 @@
 
 <body>
   <header class="main-header">
-    <div class="main-logo"><a href="https://hubmapconsortium.github.io/ccf-gtex-pilot/"
-        title="Link to HuBMAP CCF GTEx Pilot Page"><img
+    <div class="main-logo"><a href="https://hubmapconsortium.github.io/hra-millitome/"
+        title="Link to HRA Millitome Homepage"><img
           src="https://hubmapconsortium.org/wp-content/uploads/2020/09/hubmap-type-white250.png" alt="HuBMAP logo"
           class="logo"></a></div>
   </header>
-  <div src="README.md" class="main">
-    <h1 style="font-weight: bold;">What is Millitome?</h1>
-    <img src="img/millitome.png" alt="Millitome" style="float:right;width:400px;height:500px;margin:15px 15px 50px 15px">
-    <p style="text-align:left">
-      A millitome (from Latin mille, meaning “thousand,” as in millimeter, and the Greek temnein, meaning "to cut") is a
-      device designed to hold a freshly procured organ and facilitate cutting it into many small tissue blocks for usage
-      in single cell analysis. A millitome has discrete equally placed cutting grooves in both the x and y directions to
-      guide a carbon steel cutting knife to produce standard size slices or cubes of tissue material. Millitomes are
-      used to create uniformly sized tissue blocks that match the shape and size of organs from the CCF 3D Reference Object
-      Library.
-      The procedures outlined here describe how to generate millitomes and how to ensure that spatial locations for each
-      slice
-      or cube are retained in the Human Reference Atlas. <br><br>
-
-      This page allows you to download complete millitome sets for 3D-printing.
-      Specific download packages are accessed by selecting the organ (i.e. VH_F_Kidney_L = female kidney, left).
-      Each organ folder contains three compressed download packages, distinguished by block size (i.e. VH_F_Kidney_L_20
-      =
-      female kidney, left, 20mm block size). <br><br>
-
-      Each package contains three 3D-printable .STL files, one each for “small”, “medium” and “large” organ sizes to
-      cover
-      a wide range of variations (i.e. VH_F_Kidney_L_20_Medium = female kidney, left, 20mm block size, medium size).
-      Also included in each package is a .CSV file to record data about the sample blocks taken from the organ.
-    </p>
-
-  </div>
-
-  <div src="README.md" class="main">
-
-    <table style="width: 100%;">
-      <tbody>
-        <tr>
-          <td>
-            <a href="_blank">
-              <img src="img/ico-organs-kidney.svg" alt="icon-kidney" class="image-table">
-              <p>Kidney</p>
-            </a>
-          </td>
-
-          <td>
-            <a href="_blank">
-              <img src="img/ico-organs-pancreas.svg" alt="icon-pancreas" class="image-table">
-              <p>Pancreas</p>
-            </a>
-          </td>
-
-          <td>
-            <a href="_blank">
-              <img src="img/ico-organs-spleen.svg" alt="icon-spleen" class="image-table">
-              <p>Spleen</p>
-            </a>
-          </td>
-
-        </tr>
-      </tbody>
-
-    </table>
-  </div>
+  <wc-markdown src="README.md" class="main"></wc-markdown>
 </body>
 
 </html>
