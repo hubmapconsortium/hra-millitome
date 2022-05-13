@@ -8,9 +8,9 @@ in single cell analysis. A millitome has discrete equally placed cutting grooves
 guide a carbon steel cutting knife to produce standard size slices or cubes of tissue material. Millitomes are
 used to create uniformly sized tissue blocks that match the shape and size of organs from the CCF 3D Reference Object
 Library.
+
 The procedures outlined here describe how to generate millitomes and how to ensure that spatial locations for each
-slice
-or cube are retained in the Human Reference Atlas.
+slice or cube are retained in the Human Reference Atlas.
 
 This page allows you to download complete millitome sets for 3D-printing.
 Specific download packages are accessed by selecting the organ (i.e. VH_F_Kidney_L = female kidney, left).
@@ -27,19 +27,19 @@ Also included in each package is a .CSV file to record data about the sample blo
 
 #### Visual Human Female Left Kidney (VH_F_Kidney_L)
 
-* [Millitome Files](millitomes/VH_F_Kidney_L/)
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_L/)
 
 #### Visual Human Female Right Kidney (VH_F_Kidney_R)
 
-* [Millitome Files](millitomes/VH_F_Kidney_R/)
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_R/)
 
 #### Visual Human Male Left Kidney (VH_M_Kidney_L)
 
-* [Millitome Files](millitomes/VH_M_Kidney_L/)
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_L/)
 
 #### Visual Human Male Right Kidney (VH_M_Kidney_R)
 
-* [Millitome Files](millitomes/VH_M_Kidney_R/)
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
 
 ### Pancreas
 
