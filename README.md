@@ -1,5 +1,13 @@
 # HRA Millitome
 
+## Table of Contents
+
+- [What is a Millitome?](#what-is-a-millitome)
+- [Millitome Catalog](#millitome-catalog)
+  - [Kidney](#kidney)
+  - [Pancreas](#pancreas)
+  - [Spleen](#spleen)
+
 ## What is a Millitome?
 
 A millitome (from Latin mille, meaning “thousand,” as in millimeter, and the Greek temnein, meaning "to cut") is a
@@ -8,6 +16,8 @@ in single cell analysis. A millitome has discrete equally placed cutting grooves
 guide a carbon steel cutting knife to produce standard size slices or cubes of tissue material. Millitomes are
 used to create uniformly sized tissue blocks that match the shape and size of organs from the CCF 3D Reference Object
 Library.
+
+![Millitome Example](img/millitome.png)
 
 The procedures outlined here describe how to generate millitomes and how to ensure that spatial locations for each
 slice or cube are retained in the Human Reference Atlas.

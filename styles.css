@@ -8,11 +8,9 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
-#toc {
-  margin: 10px;
-  float: left;
-  position: sticky;
-  top: 0px;
+.main img {
+  width: 40%;
+  float: right;
 }
 
 .main, .main-header, .main-footer {
