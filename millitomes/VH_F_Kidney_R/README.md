@@ -19,7 +19,7 @@ VH_F_Kidney_R_15_matrix.csv<br>
 
 ## Organ size variations
 
-<p>Each VH_F_Kidney_R millitome in this set comes in three size variations.</p>
+<p>Each VH_F_Kidney_R millitome in this set comes in three size variations:</p>
 
 <strong>medium (100%)</strong><br>
 X = 63mm<br>
