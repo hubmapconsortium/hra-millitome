@@ -50,34 +50,34 @@ Also included in each package is a .CSV file to record data about the sample blo
 
 #### Visual Human Female Left Pancreas (VH_F_Pancreas_L)
 
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Pancreas_L/)
 
 #### Visual Human Female Right Pancreas (VH_F_Pancreas_R)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Pancreas_R/)
 
 #### Visual Human Male Left Pancreas (VH_M_Pancreas_L)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas_L)
 
 #### Visual Human Male Right Pancreas (VH_M_Pancreas_R)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas_R)
 
 ### Spleen
 
 #### Visual Human Female Left Spleen (VH_F_Spleen_L)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen_L)
 
 #### Visual Human Female Right Spleen (VH_F_Spleen_R)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen_R)
 
 #### Visual Human Male Left Spleen (VH_M_Spleen_L)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen_L)
 
 #### Visual Human Male Right Spleen (VH_M_Spleen_R)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen_R)
