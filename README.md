@@ -50,7 +50,7 @@ Also included in each package is a .CSV file to record data about the sample blo
 
 #### Visual Human Female Left Pancreas (VH_F_Pancreas_L)
 
-* [Millitome Files]()
+* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
 
 #### Visual Human Female Right Pancreas (VH_F_Pancreas_R)
 
