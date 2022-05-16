@@ -14,8 +14,7 @@ VH_F_Spleen_15_Large_Bottom.stl<br>
 VH_F_Spleen_15_Large_Top.stl<br>
 VH_F_Spleen_15_Small_Bottom.stl<br>
 VH_F_Spleen_15_Small_Top.stl<br>
-VH_F_Spleen_15_linear.csv<br>
-VH_F_Spleen_15_matrix.csv<br>
+VH_F_Spleen_15_Lookup.csv<br>
 
 ## Organ size variations
 
