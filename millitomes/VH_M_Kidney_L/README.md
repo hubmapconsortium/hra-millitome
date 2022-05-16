@@ -14,8 +14,7 @@ VH_M_Kidney_L_15_Large_Bottom.stl<br>
 VH_M_Kidney_L_15_Large_Top.stl<br>
 VH_M_Kidney_L_15_Small_Bottom.stl<br>
 VH_M_Kidney_L_15_Small_Top.stl<br>
-VH_M_Kidney_L_15_linear.csv<br>
-VH_M_Kidney_L_15_matrix.csv<br>
+VH_M_Kidney_L_15_Lookup.csv<br>
 
 ## Organ size variations
 
