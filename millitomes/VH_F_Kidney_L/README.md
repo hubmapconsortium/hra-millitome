@@ -16,18 +16,31 @@ VH_F_Kidney_L_15_Small_Bottom.stl<br>
 VH_F_Kidney_L_15_Small_Top.stl<br>
 VH_F_Kidney_L_15_Lookup.csv<br>
 
-## Organ size variations
+## Organ and millitome size variations
 
-<p>Each VH_F_Kidney_L millitome in this set comes in three size variations:</p>
+<p>Each VH_F_Kidney_L millitome in this set comes in three size variations ( measurements in millimeters):</p>
 
 <strong>medium (100%)</strong><br>
-X = 66mm<br>
-Y = 134mm<br>
+Organ size:<br>
+X = 66<br>
+Y = 134<br>
+Millitome 3D-print size:<br>
+X = 110<br>
+Y = 180<br>
+Z = 53<br>
 
 <strong>large (115%)</strong><br>
-X = 75.9mm<br>
-Y = 154.1mm<br>
+X = 75.9<br>
+Y = 154.1<br>
+Millitome 3D-print size:<br>
+X = 120<br>
+Y = 200<br>
+Z = 57.8<br>
 
 <strong>small (85%)</strong><br>
-X = 56.1mm<br>
-Y = 113.9mm<br>
+X = 56.1<br>
+Y = 113.9<br>
+Millitome 3D-print size:<br>
+X = 100<br>
+Y = 160<br>
+Z = 48.2<br>
