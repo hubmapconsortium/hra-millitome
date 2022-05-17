@@ -22,26 +22,28 @@ VH_M_Pancreas_15_Lookup.csv<br>
 <p>Each VH_M_Pancreas millitome in this set comes in three size variations (measurements in millimeters):</p>
 
 <strong>medium (100%)</strong><br>
-Organ size:<br>
+<em>Organ size:</em><br>
 X = 58<br>
 Y = 136<br>
-Millitome 3D-print size:<br>
+<em>Millitome 3D-print size:</em><br>
 X = 100<br>
 Y = 180<br>
 Z = 41<br>
 
 <strong>large (115%)</strong><br>
-X = 66.7mm<br>
-Y = 156.4mm<br>
-Millitome 3D-print size:<br>
+<em>Organ size:</em><br>
+X = 66.7<br>
+Y = 156.4<br>
+<em>Millitome 3D-print size:</em><br>
 X = 110<br>
 Y = 200<br>
 Z = 44<br>
 
 <strong>small (85%)</strong><br>
-X = 49.3mm<br>
-Y = 115.6mm<br>
-Millitome 3D-print size:<br>
+<em>Organ size:</em><br>
+X = 49.3<br>
+Y = 115.6<br>
+<em>Millitome 3D-print size:</em><br>
 X = 90<br>
 Y = 160<br>
 Z = 38<br>
