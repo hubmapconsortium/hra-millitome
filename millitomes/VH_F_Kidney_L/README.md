@@ -18,7 +18,7 @@ VH_F_Kidney_L_15_Lookup.csv<br>
 
 ## Organ and millitome size variations
 
-<p>Each VH_F_Kidney_L millitome in this set comes in three size variations ( measurements in millimeters):</p>
+<p>Each VH_F_Kidney_L millitome in this set comes in three size variations (measurements in millimeters):</p>
 
 <strong>medium (100%)</strong><br>
 Organ size:<br>
