@@ -16,18 +16,32 @@ VH_F_Spleen_15_Small_Bottom.stl<br>
 VH_F_Spleen_15_Small_Top.stl<br>
 VH_F_Spleen_15_Lookup.csv<br>
 
-## Organ size variations
+## Organ and millitome size variations
 
-<p>Each VH_F_Spleen millitome in this set comes in three size variations:</p>
+<p>Each VH_F_Spleen millitome in this set comes in three size variations (measurements in millimeters):</p>
 
 <strong>medium (100%)</strong><br>
-X = 76mm<br>
-Y = 117mm<br>
+Organ size:<br>
+X = 76<br>
+Y = 117<br>
+Millitome 3D-print size:<br>
+X = 120<br>
+Y = 160<br>
+Z = 47<br>
 
 <strong>large (115%)</strong><br>
-X = 87.4mm<br>
-Y = 134.55mm<br>
+X = 87.4<br>
+Y = 134.55<br>
+Millitome 3D-print size:<br>
+X = 130<br>
+Y = 180<br>
+Z = 50.9<br>
 
 <strong>small (85%)</strong><br>
-X = 64.6mm<br>
-Y = 99.45mm<br>
+X = 64.6<br>
+Y = 99.45<br>
+Millitome 3D-print size:<br>
+X = 110<br>
+Y = 140<br>
+Z = 43.1<br>
+
