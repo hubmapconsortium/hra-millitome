@@ -30,16 +30,16 @@ Y = 160<br>
 Z = 50<br>
 
 <strong>large (115%)</strong><br>
-X = 72.45mm<br>
-Y = 127.65mm<br>
+X = 72.45<br>
+Y = 127.65<br>
 Millitome 3D-print size:<br>
 X = 120<br>
 Y = 170<br>
 Z = 54.35<br>
 
 <strong>small (85%)</strong><br>
-X = 53.55mm<br>
-Y = 94.35mm<br>
+X = 53.55<br>
+Y = 94.35<br>
 Millitome 3D-print size:<br>
 X = 100<br>
 Y = 140<br>
