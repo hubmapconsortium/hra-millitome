@@ -4,7 +4,7 @@ This directory contains compressed files. Each ZIP file will expand into a folde
 
 ## ZIP file contents
 
-<p>For example <em>VH_F_Spleen_15_Millitomes.zip</em> contains all files needed to print 15mm block size millitomes.</p>
+<p>For example <em>VH_F_Spleen_15_Millitomes.zip</em> contains all files needed to print 15mm block size millitomes and matching CSV lookup files.</p>
 
 <p>The content of this specific ZIP file would be:</p>
 
@@ -14,7 +14,14 @@ VH_F_Spleen_15_Large_Bottom.stl<br>
 VH_F_Spleen_15_Large_Top.stl<br>
 VH_F_Spleen_15_Small_Bottom.stl<br>
 VH_F_Spleen_15_Small_Top.stl<br>
-VH_F_Spleen_15_Lookup.csv<br>
+
+VH_F_Spleen_15_Medium_Bottom.csv<br>
+VH_F_Spleen_15_Medium_Top.csv<br>
+VH_F_Spleen_15_Large_Bottom.csv<br>
+VH_F_Spleen_15_Large_Top.csv<br>
+VH_F_Spleen_15_Small_Bottom.csv<br>
+VH_F_Spleen_15_Small_Top.csv<br>
+
 
 ## Organ and millitome size variations
 
