@@ -14,7 +14,14 @@ VH_F_Kidney_L_15_Large_Bottom.stl<br>
 VH_F_Kidney_L_15_Large_Top.stl<br>
 VH_F_Kidney_L_15_Small_Bottom.stl<br>
 VH_F_Kidney_L_15_Small_Top.stl<br>
-VH_F_Kidney_L_15_Lookup.csv<br>
+
+VH_F_Kidney_L_15_Medium_Bottom.csv<br>
+VH_F_Kidney_L_15_Medium_Top.csv<br>
+VH_F_Kidney_L_15_Large_Bottom.csv<br>
+VH_F_Kidney_L_15_Large_Top.stl<csv>
+VH_F_Kidney_L_15_Small_Bottom.csv<br>
+VH_F_Kidney_L_15_Small_Top.stl<csv>
+
 
 ## Organ and millitome size variations
 
