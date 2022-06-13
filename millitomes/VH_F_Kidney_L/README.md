@@ -4,7 +4,7 @@ This directory contains compressed files. Each ZIP file will expand into a folde
 
 ## ZIP file contents
 
-<p>For example <em>VH_F_Kidney_L_15_Millitomes.zip</em> contains all files needed to print 15mm block size millitomes and matching CSV lookup files</p>
+<p>For example <em>VH_F_Kidney_L_15_Millitomes.zip</em> contains all files needed to print 15mm block size millitomes and matching CSV lookup files.</p>
 
 <p>The content of this specific ZIP file would be:</p>
 
