@@ -1,4 +1,4 @@
-![Millitome Example](img/millitome.png)
+![Millitome Example](img/Fig-1-kidney-and-MT-small.jpg)
 # HRA Millitome
 
 ## Table of Contents
