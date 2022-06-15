@@ -19,7 +19,7 @@ Specific download packages are accessed by selecting the organ (i.e. VH_F_Kidney
 Each organ folder contains three compressed download packages, distinguished by sample block size (i.e. VH_F_Kidney_L_20
 = female kidney, left, 20mm block size).
 
-Each package contains six 3D-printable .STL files for the requested organ, three each for the bottom and top half. Each millitome comes in three size variations to cover a range of organ sizes: large (115%), medium (100%), small (%85). Also included in each package are six lookup files in .CSV file format to record data about the sample blocks taken from the organ.
+Each package contains six 3D-printable .STL files for the requested organ, three each for the bottom and top half. Each millitome comes in three size variations to cover a range of organ sizes: large (115%), medium (100%), small (85%). Also included in each package are six lookup files in .CSV file format to record data about the sample blocks taken from the organ.
 
 ## Millitome Catalog
 
