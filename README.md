@@ -31,33 +31,19 @@ Also included in each package is a .CSV file to record data about the sample blo
 
 * [Visual Human Female Right Kidney (VH_F_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_R/)
 
-#### Visual Human Male Left Kidney (VH_M_Kidney_L)
+* [Visual Human Male Left Kidney (VH_M_Kidney_L)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_L/)
 
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_L/)
-
-#### Visual Human Male Right Kidney (VH_M_Kidney_R)
-
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
+* [Visual Human Male Right Kidney (VH_M_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
 
 ### Pancreas
 
-#### Visual Human Female Pancreas (VH_F_Pancreas)
+* [Visual Human Female Pancreas (VH_F_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Pancreas/)
 
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Pancreas/)
-
-
-#### Visual Human Male Pancreas (VH_M_Pancreas)
-
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas/)
+* [Visual Human Male Pancreas (VH_M_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas/)
 
 ### Spleen
 
-#### Visual Human Female Spleen (VH_F_Spleen)
+* [Visual Human Female Spleen (VH_F_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen/)
 
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen/)
-
-
-#### Visual Human Male Spleen (VH_M_Spleen)
-
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen/)
+* [Visual Human Male Spleen (VH_M_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen/)
 
