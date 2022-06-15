@@ -27,13 +27,9 @@ Also included in each package is a .CSV file to record data about the sample blo
 
 ### Kidney
 
-#### Visual Human Female Left Kidney (VH_F_Kidney_L)
+* [Visual Human Female Left Kidney (VH_F_Kidney_L)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_L/)
 
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_L/)
-
-#### Visual Human Female Right Kidney (VH_F_Kidney_R)
-
-* [Millitome Files](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_R/)
+* [Visual Human Female Right Kidney (VH_F_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_R/)
 
 #### Visual Human Male Left Kidney (VH_M_Kidney_L)
 
