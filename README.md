@@ -1,17 +1,19 @@
-![Millitome Example](img/Fig-1-kidney-and-MT-small.jpg)
-# HRA Millitome
 
-## Table of Contents
+# CCF HRA Millitome
+
+<!--## Table of Contents 
 
 - [What is a Millitome?](#what-is-a-millitome)
 - [Millitome Catalog](#millitome-catalog)
   - [Kidney](#kidney)
   - [Pancreas](#pancreas)
-  - [Spleen](#spleen)
+  - [Spleen](#spleen)-->
 
-## What is a Millitome?
+## Overview
 
 A millitome is a device designed to hold a freshly procured organ and facilitate cutting it into many small tissue blocks for usage in single cell analysis. A millitome has discrete equally placed cutting grooves in both the x and y directions to guide a carbon steel cutting knife to produce standard size slices or cubes of tissue material. Millitomes are used to create uniformly sized tissue blocks that match the shape and size of organs from the [CCF 3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).
+
+<img style="float: right" src="img/Fig-1-kidney-and-MT-small.jpg" width="200">
 
 This page allows you to download complete millitome sets for 3D-printing.
 
@@ -45,3 +47,6 @@ Each package contains six 3D-printable .STL files for the requested organ, three
 
 * [Visual Human Male Spleen (VH_M_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen/)
 
+<!--
+![Millitome Example](img/Fig-1-kidney-and-MT-small.jpg)
+-->
