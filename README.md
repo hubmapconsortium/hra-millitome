@@ -15,7 +15,7 @@ A millitome is a device designed to hold a freshly procured organ and facilitate
 
 <img style="float: right" src="img/Fig-1-kidney-and-MT-small.jpg" width="200">
 
-![millitome-print!](im/MT_M_Kidney_Bot_1_small.jpg "millitome print")
+![millitome-print!](img/MT_M_Kidney_Bot_1_small.jpg "millitome print")
 
 This page allows you to download complete millitome sets for 3D-printing.
 
