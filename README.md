@@ -14,6 +14,7 @@
 A millitome is a device designed to hold a freshly procured organ and facilitate cutting it into many small tissue blocks for usage in single cell analysis. A millitome has discrete equally placed cutting grooves in both the x and y directions to guide a carbon steel cutting knife to produce standard size slices or cubes of tissue material. Millitomes are used to create uniformly sized tissue blocks that match the shape and size of organs from the [CCF 3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).
 
 <img style="float: right" src="img/Fig-1-kidney-and-MT-small.jpg" width="200">
+<img src="img/MT_M_Kidney_Bot_1_small.jpg" width="200">
 
 ![millitome-print!](img/MT_M_Kidney_Bot_1_small.jpg "millitome print")
 
