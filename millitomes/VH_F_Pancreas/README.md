@@ -1,4 +1,4 @@
-# Millitome files for Visual Human Female Pancreas
+# Millitome files for Visible Human Female Pancreas
 
 This directory contains compressed files. Each ZIP file will expand into a folder containing all necessary files to 3D-print millitomes for the a specific sample block size. Also included are matching CSV files for sample block registration.
 
