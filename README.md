@@ -28,25 +28,25 @@ Each package contains six 3D-printable .STL files for the requested organ, three
 
 ### Kidney
 
-* [Visual Human Female Left Kidney (VH_F_Kidney_L)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_L/)
+* [Visible Human Female Left Kidney (VH_F_Kidney_L)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_L/)
 
-* [Visual Human Female Right Kidney (VH_F_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_R/)
+* [Visible Human Female Right Kidney (VH_F_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Kidney_R/)
 
-* [Visual Human Male Left Kidney (VH_M_Kidney_L)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_L/)
+* [Visible Human Male Left Kidney (VH_M_Kidney_L)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_L/)
 
-* [Visual Human Male Right Kidney (VH_M_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
+* [Visible Human Male Right Kidney (VH_M_Kidney_R)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Kidney_R/)
 
 ### Pancreas
 
-* [Visual Human Female Pancreas (VH_F_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Pancreas/)
+* [Visible Human Female Pancreas (VH_F_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Pancreas/)
 
-* [Visual Human Male Pancreas (VH_M_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas/)
+* [Visible Human Male Pancreas (VH_M_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas/)
 
 ### Spleen
 
-* [Visual Human Female Spleen (VH_F_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen/)
+* [Visible Human Female Spleen (VH_F_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen/)
 
-* [Visual Human Male Spleen (VH_M_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen/)
+* [Visible Human Male Spleen (VH_M_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Spleen/)
 
 <!--
 ![Millitome Example](img/Fig-1-kidney-and-MT-small.jpg)
