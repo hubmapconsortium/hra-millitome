@@ -42,6 +42,8 @@ Each package contains six 3D-printable .STL files for the requested organ, three
 
 * [Visible Human Male Pancreas (VH_M_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas/)
 
+* [Generic Pancreas (Generic_Pancreas)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_M_Pancreas/)
+
 ### Spleen
 
 * [Visible Human Female Spleen (VH_F_Spleen)](https://github.com/hubmapconsortium/hra-millitome/tree/main/millitomes/VH_F_Spleen/)
