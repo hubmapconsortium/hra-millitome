@@ -8,7 +8,6 @@ This directory contains compressed files. The ZIP file will expand into a folder
 
 <p>Contents of the ZIP file:</p>
 
-
 G_Pancreas_1x25blocks_Medium_Bottom_Millitome.stl<br>
 G_Pancreas_1x25blocks_Medium_Top_Millitome.stl<br>
 G_Pancreas_1x25blocks_Large_Bottom_Millitome.stl<br>
