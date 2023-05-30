@@ -2,6 +2,8 @@
 
 This directory contains compressed files. The ZIP file will expand into a folder containing all necessary files to 3D-print millitomes for a specific organ. This is a 25x1 millitome for a generic pancreas. Also included are matching CSV files for sample block registration.
 
+<img src="img/G_Pancreas_1x25blocks_Millitome.png" width="200">
+
 ## ZIP file contents
 
 <p>For example <em>G_Pancreas_1x25blocks_Millitomes.zip</em> contains all files needed to print millitomes in three size variations and matching CSV lookup files.</p>
